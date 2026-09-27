@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.ootd.app-mergeDebugResources-57:/values-v31/values-v31.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\jullian\\OOTD-AndroidStudio\\OOTD\\app\\src\\main\\res\\values-v31\\themes.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endLines": "12",
+                        "endColumns": "12",
+                        "endOffsets": "736"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "13",
+                        "endColumns": "12",
+                        "endOffsets": "619"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.example.ootd.app-debug-59:/drawable_app_logo.png.flat",
+        "source": "com.example.ootd.app-main-61:/drawable/app_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\jullian\\.gradle\\daemon\\8.7\\com.example.ootd.app-debug-59:\\drawable_onboarding_bg.jpg.flat",
+        "source": "C:\\Users\\jullian\\.gradle\\daemon\\8.7\\com.example.ootd.app-main-61:\\drawable\\onboarding_bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jullian\\.gradle\\daemon\\8.7\\com.example.ootd.app-debug-59:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\jullian\\.gradle\\daemon\\8.7\\com.example.ootd.app-main-61:\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\jullian\\.gradle\\daemon\\8.7\\com.example.ootd.app-debug-59:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\jullian\\.gradle\\daemon\\8.7\\com.example.ootd.app-main-61:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    }
+]

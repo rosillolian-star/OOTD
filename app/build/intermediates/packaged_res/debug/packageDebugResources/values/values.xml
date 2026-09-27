@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OOTD</string>
+    <style name="Theme.OOTD" parent="android:Theme.Material.NoActionBar">
+        
+        <item name="android:windowBackground">#111111</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:statusBarColor">#111111</item>
+        <item name="android:navigationBarColor">#111111</item>
+    </style>
+</resources>
